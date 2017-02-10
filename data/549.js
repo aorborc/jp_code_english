@@ -1,0 +1,1 @@
+[{"post_code":"5490001","prefecture":"OSAKA FU","city":"IZUMISANO SHI","town":"SENSHUKUKO KITA"},{"post_code":"5490021","prefecture":"OSAKA FU","city":"SENNAN SHI","town":"SENSHUKUKO MINAMI"},{"post_code":"5490011","prefecture":"OSAKA FU","city":"SENNAN GUN TAJIRI CHO","town":"SENSHUKUKO NAKA"}]

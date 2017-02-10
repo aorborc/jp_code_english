@@ -1,0 +1,1 @@
+[{"post_code":"1550031","prefecture":"TOKYO TO","city":"SETAGAYA KU","town":"KITAZAWA"},{"post_code":"1550032","prefecture":"TOKYO TO","city":"SETAGAYA KU","town":"DAIZAWA"},{"post_code":"1550033","prefecture":"TOKYO TO","city":"SETAGAYA KU","town":"DAITA"}]

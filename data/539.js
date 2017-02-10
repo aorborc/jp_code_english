@@ -1,0 +1,1 @@
+[{"post_code":"5390000","prefecture":"OSAKA FU","city":"OSAKA SHI CHUO KU","town":"IKANIKEISAIGANAIBAAI"}]
