@@ -1,1 +1,1 @@
-[{"post_code":"5390000","prefecture":"OSAKA FU","city":"OSAKA SHI CHUO KU","town":"IKANIKEISAIGANAIBAAI"}]
+{"5390000":{"post_code":"5390000","prefecture":"OSAKA FU","city":"OSAKA SHI CHUO KU","town":"IKANIKEISAIGANAIBAAI","perfecture_jp":"大阪府","jp_add_1":"大阪市中央区","jp_add_2":""}}
